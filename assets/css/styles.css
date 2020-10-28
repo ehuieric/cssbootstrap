@@ -1,0 +1,26 @@
+body { 
+  background-image: url("../imgs/moroccan-flower.png");
+}
+
+.container {
+  background-color: white;
+  margin: 65px 30px ;
+}
+
+.about-me-img {
+  width: 200px;
+  float: left;
+  margin: 20px;
+}
+
+.navbar-light .navbar-brand {
+ background-color: green;
+}
+
+h1 {
+  color: green;
+}
+
+.box {
+  margin: 5px;
+}
